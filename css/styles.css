@@ -434,8 +434,6 @@ h3 {
   flex-shrink: 0;
   padding: 100px 0;
   margin: 0 auto;
-  width: 1440px;
-  height: 312px;
 }
 .footer-text {
   line-height: 1.5;
@@ -443,6 +441,7 @@ h3 {
   color: #f4f4fd;
   width: 264px;
   font-size: 16px;
+  text-align: left;
 }
 
 .social-list-title {
@@ -498,7 +497,6 @@ h3 {
   display: flex;
   align-items: baseline;
 }
-
 .footer-logo {
   margin-right: 120px;
   margin-left: 156px;
